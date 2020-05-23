@@ -1,0 +1,3 @@
+# AnimatedScrollBarDemo
+
+鼠标悬停滚动条，滚动条的宽度动态变化，使用QVariantAnimation生成宽度数据，使用qss初始化宽度
